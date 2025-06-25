@@ -1,0 +1,14 @@
+.card {
+  display: flex;
+  &-title {
+    display: flex;
+  }
+  &-description {
+    &-top {
+
+    }
+    &-bottom {
+
+    }
+  }
+}
